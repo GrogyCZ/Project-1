@@ -1,3 +1,4 @@
-# Project-1
+# Project-Automatyzovaný jídelníček.
 
-Jedná se o můj první projekt, na kterém samostatně pracuji. Chci postupně přidávat jeho aktualizované verze, ve kterých budu dbát především na zlepšení užitého kodování. Každá připomínka či rada je vítána.
+Jedná se o můj první projekt, na kterém samostatně pracuji. Algoritmus mi měl po,áhat při stavění jídělníčkům, ale to již není aktuální. Proto směřuji svojí pozornost k jiným projektům. 
+
